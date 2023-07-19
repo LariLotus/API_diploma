@@ -36,20 +36,22 @@
 Для запуска тестов выбрать пункт **"Собрать сейчас"**
 
 ## Отчеты о прохождении тестов доступны в Allure
-![This is an image](/resourses/AllureReport.png)
+![This is an image](/resourses/Allure_report.png)
 
-![This is an image](/resourses/Allure Graphs.png)
+![This is an image](/resourses/Allure_graphs.png)
 
-![This is an image](/resourses/Allure Behaviors.png)
+![This is an image](/resourses/Allure_behaviors.png)
 
 ## Проект интегрирован с Allure TestOps
 
 ### Итоговые dashboard по результатам сборок
-![This is an image](/resourses/AllureTestOps Dashboard.png)
+![This is an image](/resourses/AllureTestOps_dashboard.png)
+![This is an image](/resourses/TestOps_testcases.png)
+
 
 ### Аналитическая dashboard с Features и Launchers
-![This is an image](/resourses/AllureTestOps Features.png)
-![This is an image](/resourses/AllureTestOps launchers.png)
+![This is an image](/resourses/AllureTestOps_features.png)
+![This is an image](/resourses/AllureTestOps_launchers.png)
 
 ## Интеграция с Jira
 ### Настроив через Allure TestOps интеграцию с Jira, в тикет можно пробросить результат прохождение тестов и список тест-кейсов из Allure
