@@ -17,10 +17,15 @@
 
 ## Список проверок, реализованных в автотестах:
 :sparkle: Проверка списка пользователей
+
 :sparkle: Проверка создания нового пользователя
+
 :sparkle: Проверка пользователя по заданному id 6
+
 :sparkle: Проверка обновления id, name, job пользователя
+
 :sparkle: Проверка удаления пользователя
+
 :sparkle: Проверка ошибки авторизации пользователя
 
 ## Запуск автотестов выполняется на сервере Jenkins
@@ -32,7 +37,9 @@
 
 ## Отчеты о прохождении тестов доступны в Allure
 ![This is an image](/resourses/Allure Report.png)
+
 ![This is an image](/resourses/Allure Graphs.png)
+
 ![This is an image](/resourses/Allure Behaviors.png)
 
 ## Проект интегрирован с Allure TestOps
