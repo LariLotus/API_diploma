@@ -30,7 +30,7 @@
 :sparkle: Проверка ошибки авторизации пользователя
 
 ## Запуск автотестов выполняется на сервере Jenkins
-> <a target="_blank" href="tps://jenkins.autotests.cloud/job/API_diploma/10/">Ссылка на проект в Jenkins</a>
+> <a target="_blank" href="https://jenkins.autotests.cloud/job/API_diploma/10/">Ссылка на проект в Jenkins</a>
 
 ![This is an image](/resourses/jenkins.png)
 
@@ -38,6 +38,7 @@
 
 ## Отчеты о прохождении тестов доступны в Allure
 > <a target="_blank" href="https://jenkins.autotests.cloud/job/API_diploma/allure/">Ссылка на отчет</a>
+
 ![This is an image](/resourses/Allure_report.png)
 
 ![This is an image](/resourses/Allure_graphs.png)
