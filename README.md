@@ -36,7 +36,7 @@
 Для запуска тестов выбрать пункт **"Собрать сейчас"**
 
 ## Отчеты о прохождении тестов доступны в Allure
-![This is an image](/resourses/Allure Report.png)
+![This is an image](/resourses/AllureReport.png)
 
 ![This is an image](/resourses/Allure Graphs.png)
 
