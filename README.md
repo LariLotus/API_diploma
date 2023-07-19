@@ -11,6 +11,7 @@
 <code><img width="5%" title="Jenkins" src="https://avatars.githubusercontent.com/u/2520748?v=4"></code>
 </code>
 </p>
+
 ## Описание проекта
 Учебный проект реализации автотестирования **Rest Api**.<br/>
 >В качестве объекта тестирования выбран сайт https://reqres.in/ с открытым api.<br/>
