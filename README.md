@@ -23,8 +23,6 @@
 
 :heavy_check_mark: Подключена система отчетности Allure Reports с вложениями (логи, скриншоты).
 
-:heavy_check_mark: В UI-тестах шаги отображены в виде лямбда-степов через with allure.step
-
 :heavy_check_mark: Также по факту прохождения теста отправляется уведомление с результатами в Telegram.
 
 :heavy_check_mark: Реализована интеграция с Allure TestOps.
