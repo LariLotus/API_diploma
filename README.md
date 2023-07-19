@@ -65,6 +65,9 @@
 ![This is an image](/resourses/telegram1.png)
 
 
+:heart: <a target="_blank" href="https://qa.guru">qa.guru</a><br/>
+:blue_heart: <a target="_blank" href="https://t.me/qa_automation">t.me/qa_automation</a>
+
 
 
 
