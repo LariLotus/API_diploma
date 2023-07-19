@@ -15,6 +15,42 @@
 Учебный проект реализации автотестирования **Rest Api**.<br/>
 >В качестве объекта тестирования выбран сайт https://reqres.in/ с открытым api.<br/>
 
-## Список проверок, реализованных в автотестах
-- [x] Solr query. Проверка списка пользователей
-- [x] Solr query. 
+## Список проверок, реализованных в автотестах:
+:sparkle: Проверка списка пользователей
+:sparkle: Проверка создания нового пользователя
+:sparkle: Проверка пользователя по заданному id 6
+:sparkle: Проверка обновления id, name, job пользователя
+:sparkle: Проверка удаления пользователя
+:sparkle: Проверка ошибки авторизации пользователя
+
+## Запуск автотестов выполняется на сервере Jenkins
+> <a target="_blank" href="https://jenkins.autotests.cloud/job/API_diploma/allure/">Ссылка на проект в Jenkins</a>
+
+![This is an image](/resourses/jenkins.png)
+
+Для запуска тестов выбрать пункт **"Собрать сейчас"**
+
+## Отчеты о прохождении тестов доступны в Allure
+![This is an image](/resourses/Allure Report.png)
+![This is an image](/resourses/Allure Graphs.png)
+![This is an image](/resourses/Allure Behaviors.png)
+
+## Проект интегрирован с Allure TestOps
+
+### Итоговые dashboard по результатам сборок
+![This is an image](/resourses/AllureTestOps Dashboard.png)
+
+### Аналитическая dashboard с Features и Launchers
+![This is an image](/resourses/AllureTestOps Features.png)
+![This is an image](/resourses/AllureTestOps launchers.png)
+
+## Интеграция с Jira
+### Настроив через Allure TestOps интеграцию с Jira, в тикет можно пробросить результат прохождение тестов и список тест-кейсов из Allure
+![This is an image](/resourses/jira.png)
+
+
+
+
+
+
+
