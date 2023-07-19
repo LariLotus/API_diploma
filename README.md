@@ -49,13 +49,19 @@
 ![This is an image](/resourses/TestOps_testcases.png)
 
 
-### Аналитическая dashboard с Features и Launchers
+### Аналитическая dashboard с Features и Launches
 ![This is an image](/resourses/AllureTestOps_features.png)
 ![This is an image](/resourses/AllureTestOps_launchers.png)
 
 ## Интеграция с Jira
 ### Настроив через Allure TestOps интеграцию с Jira, в тикет можно пробросить результат прохождение тестов и список тест-кейсов из Allure
 ![This is an image](/resourses/jira.png)
+
+## Интеграция с Telegram
+### После прохождения тестов, в Telegram bot приходит сообщение с графиком и краткой информацией о тестах
+![This is an image](/resourses/telegram1.png)
+
+
 
 
 
